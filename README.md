@@ -16,4 +16,4 @@
 -  I enjoy exploring how things work behind the scenes  
 -  Open to collaboration and always ready to learn from others  
 
- *"“Make it work, make it right, make it fast.” * <3
+ *“Make it work, make it right, make it fast.”* <3
